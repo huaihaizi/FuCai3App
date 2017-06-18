@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">福彩3D预测</string>
+    <string name="app_yi_name">一元购</string>
+    <string name="hot_name">热门彩种</string>
+    <string name="hot_other">其他彩种</string>
+    <string name="shuangseqiu">双色球</string>
+    <string name="daletou">大乐透</string>
+    <string name="fucai3d">福彩3D</string>
+    <string name="pailei3">排列三</string>
+    <string name="pailei5">排列五</string>
+    <string name="shishicai">时时彩</string>
+    <string name="qixingcai">七星彩</string>
+    <string name="qilecai">七乐彩</string>
+    <string name="xuan115">11选5</string>
+    <string name="kaile3">快乐三</string>
+    <string name="kaile8">快乐八</string>
+    <string name="kaile10">快乐十</string>
+    <string name="result_open">开奖结果</string>
+
+</resources>

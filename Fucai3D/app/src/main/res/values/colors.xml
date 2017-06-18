@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="notification_icon_bg_color">#ff9e9e9e</color>
+    <color name="red">#ffff0000</color>
+    <color name="ffffff">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="fff3f2ff">#fff3f2ff</color>
+    <color name="index_text">#ff333333</color>
+    <color name="transparent">#00000000</color>
+    <color name="font_color">#ff333333</color>
+    <color name="font_color_list">#4ac3f6</color>
+</resources>
